@@ -1,0 +1,10 @@
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe.config
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.pdb
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csprojAssemblyReference.cache
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Form1.resources
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Properties.Resources.resources
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.GenerateResource.cache
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.exe
+C:\Users\sulta\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.pdb
